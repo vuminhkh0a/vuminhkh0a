@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @vuminhkh0a
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on nah
-- 📫 How to reach me ...
-- 😄 Pronouns: he/his 
-- ⚡ Fun fact: i like figures and basketball
+# 👋 Hi there! I'm Vu Minh Khoa.  
+🚀 Student | Hanoi University of Science and Technology  
 
-<!---
-vuminhkh0a/vuminhkh0a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills  
+- **Languages**: Python, C++  
+- **Tools**: Git, VS Code  
+
+## 📂 Featured Projects  
+- (https://github.com/vuminhkh0a/Guess-the-Number-game): Guess number game.  
+
+
+## 📫 Contact  
+- **Email**: vuminhkhoa2802@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/vmkhoa28)  
