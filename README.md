@@ -6,6 +6,7 @@
 - **Tools**: Git, VS Code  
 
 ## 📂 Featured Projects  
+- (https://github.com/vuminhkh0a/Custom-Resnet50-with-Adamw-on-CIFAR-10): Custom Resnet50 on CIFAR-10
 - (https://github.com/vuminhkh0a/Guess-the-Number-game): Guess number game.  
 
 
