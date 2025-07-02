@@ -2,12 +2,13 @@
 🚀 Student | Hanoi University of Science and Technology  
 
 ## 🛠️ Skills  
-- **Languages**: Python (Pytorch, Numpy, Pandas), C++  
+- **Languages**: Python (Pytorch, Numpy, Pandas, Scikit-learn, etc), C++  
 - **Tools**: Git, VS Code  
 
 ## 📂 Featured Projects  
 - (https://github.com/vuminhkh0a/Custom-Resnet50-with-Adamw-on-CIFAR-10): Custom Resnet50 on CIFAR-10
-- (https://github.com/vuminhkh0a/Guess-the-Number-game): Guess number game.  
+- (https://github.com/vuminhkh0a/Sentiment-Analysis-by-LSTM): Sentiment Analysis with LSTM.
+- (https://github.com/vuminhkh0a/Pioneers-Chatbot): Pioneer Chatbot - Mental Health Support for HUST student.
 
 
 ## 📫 Contact  
