@@ -13,4 +13,4 @@
 
 ## 📫 Contact  
 - **Email**: vuminhkhoa2802@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/vmkhoa28)  
+- **LinkedIn**: www.linkedin.com/in/vmkhoa28  
