@@ -2,7 +2,7 @@
 🚀 Student | Hanoi University of Science and Technology  
 
 ## 🛠️ Skills  
-- **Languages**: Python (Pytorch, Numpy, Pandas, Scikit-learn, etc), C, C++  
+- **Languages**: Python (Pytorch, Numpy, Pandas, Scikit-learn, Seaborn, etc), C, C++  
 - **Tools**: Git, VS Code  
 
 ## 📂 Featured Projects  
