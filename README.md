@@ -6,6 +6,7 @@
 - **Tools**: Git, VS Code  
 
 ## 📂 Featured Projects  
+- (https://github.com/vuminhkh0a/BRAIN_TUMOR): Brain Tumor MRI Diagnosis App
 - (https://github.com/vuminhkh0a/resnet50-cifar10): Custom Resnet50 on CIFAR-10
 - (https://github.com/vuminhkh0a/Sentiment-Analysis-by-LSTM): Sentiment Analysis with LSTM.
 - (https://github.com/vuminhkh0a/Churn-Prediction): Churn prediction
