@@ -9,9 +9,9 @@
 - (https://github.com/vuminhkh0a/BRAIN_TUMOR): Brain Tumor MRI Diagnosis App
 - (https://github.com/vuminhkh0a/resnet50-cifar10): Custom Resnet50 on CIFAR-10
 - (https://github.com/vuminhkh0a/skin-lesion-segmentation): Skin lesion segmentation
-- (https://github.com/vuminhkh0a/Sentiment-Analysis-by-LSTM): Sentiment Analysis with LSTM.
+- (https://github.com/vuminhkh0a/Sentiment-Analysis-by-LSTM): Sentiment Analysis with LSTM
 - (https://github.com/vuminhkh0a/Churn-Prediction): Churn prediction
-- (https://github.com/vuminhkh0a/Pioneers-Chatbot): Pioneer Chatbot - Mental Health Support for HUST student.
+- (https://github.com/vuminhkh0a/Pioneers-Chatbot): Pioneer Chatbot - Mental Health Support for HUST student
 
 
 ## 📫 Contact  
