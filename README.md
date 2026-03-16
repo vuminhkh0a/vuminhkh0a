@@ -2,8 +2,8 @@
 🚀 Student | Hanoi University of Science and Technology  
 
 ## 🛠️ Skills  
-- **Languages**: Python (Pytorch, Numpy, Pandas, Scikit-learn, Seaborn, etc), C, C++  
-- **Tools**: Git, VS Code  
+- **Languages**: Python (Pytorch, Numpy, Pandas, Scikit-learn, Seaborn, etc), C/C++, SQL.
+- **Tools**: Git, FastAPI, Gradio, Docker, DVC.  
 
 ## 📂 Featured Projects  
 - (https://github.com/vuminhkh0a/NoisySAM): NoisySAM - Evaluate foundation model robustness under perturbations for natural image segmentation [Ongoing]
