@@ -1,11 +1,6 @@
 # 👋 Hi there! I'm Vu Minh Khoa.  
-🚀 Student | Hanoi University of Science and Technology  
 
-## 🛠️ Skills  
-- **Languages**: Python (Pytorch, Numpy, Pandas, Scikit-learn, Seaborn, etc), C/C++, SQL.
-- **Tools**: Git, FastAPI, Gradio, Docker, DVC.  
-
-## 📂 Featured Projects  
+## 📂 Repositories  
 - [Code](https://github.com/vuminhkh0a/BA-Net) [DOI](https://doi.org/10.1007/978-3-032-31583-0_17) Official source code for ICPR2026 paper: "Beyond Consistency: Explicit Boundary Learning for Semi-supervised Ovarian Tumor Segmentation (BA-Net)" (DOI:10.1007/978-3-032-31583-0_17)
 - [Code](https://github.com/vuminhkh0a/ResearchAIAgent) Local research AI agent
 - [Code](https://github.com/vuminhkh0a/Neural-Post-Processing) [Course project] Multimedia Data Compression and Coding - Enhancing Compressed Audio Using Neural Post-Processing
