@@ -6,7 +6,7 @@
 - **Tools**: Git, FastAPI, Gradio, Docker, DVC.  
 
 ## 📂 Featured Projects  
-- [Code](https://github.com/vuminhkh0a/BA-Net) Official source code for ICPR2026 paper: "Beyond Consistency: Explicit Boundary Learning for Semi-supervised Ovarian Tumor Segmentation (BA-Net)" (DOI:10.1007/978-3-032-31583-0_17)
+- [Code](https://github.com/vuminhkh0a/BA-Net) [DOI](https://doi.org/10.1007/978-3-032-31583-0_17) Official source code for ICPR2026 paper: "Beyond Consistency: Explicit Boundary Learning for Semi-supervised Ovarian Tumor Segmentation (BA-Net)" (DOI:10.1007/978-3-032-31583-0_17)
 - [Code](https://github.com/vuminhkh0a/ResearchAIAgent) Local research AI agent
 - [Code](https://github.com/vuminhkh0a/NoisySAM): NoisySAM - Evaluate foundation model robustness under perturbations for natural image segmentation [Ongoing]
 - [Code](https://github.com/vuminhkh0a/resnet50-cifar10): Custom Resnet50 on CIFAR-10
