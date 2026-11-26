@@ -18,7 +18,9 @@
 - [Code](https://github.com/vuminhkh0a/Pioneers-Chatbot) [Course project] Introduction to Engineering - Mental Health Support for HUST student
 - [Code](https://github.com/vuminhkh0a/Project-HDH) [Course project] Operating System - Mouse & keyboard recorder for Windows using Win32 Hooks API
 - [Code](https://github.com/vuminhkh0a/Project-CSHTTT) [Course project] Fundamental of Digital Communication - Matlab simulation for LDPC and QPSK
-- [Code](https://github.com/vuminhkh0a/Project-DHMT) [Course project] Computer Graphics - Cloning Subway Surfers game 
+- [Code](https://github.com/vuminhkh0a/Project-DHMT) [Course project] Computer Graphics - Cloning Subway Surfers game
+- [Code](https://github.com/vuminhkh0a/Project-DHMT-2) [Course project] Computer Graphics - Simulate the Solar system 
+
 
 ## 📫 Contact  
 - **Email**: vuminhkhoa2802@gmail.com
