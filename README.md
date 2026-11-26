@@ -13,8 +13,8 @@
 - [Code](https://github.com/vuminhkh0a/skin-lesion-segmentation) Skin lesion segmentation
 - [Code](https://github.com/vuminhkh0a/Sentiment-Analysis-by-LSTM) Sentiment Analysis with LSTM
 - [Code](https://github.com/vuminhkh0a/Churn-Prediction) Churn prediction
-- [Code](https://github.com/vuminhkh0a/Neural-Post-Processing) [Course project] Multimedia data compression and coding - Enhancing Compressed Audio Using Neural Post-Processing
-- [Code](https://github.com/vuminhkh0a/Video-Super-Resolution) [Course project] Multimedia data compression and coding - Survey video super resolution methods on Vid4 dataset
+- [Code](https://github.com/vuminhkh0a/Neural-Post-Processing) [Course project] Multimedia Data Compression and Coding - Enhancing Compressed Audio Using Neural Post-Processing
+- [Code](https://github.com/vuminhkh0a/Video-Super-Resolution) [Course project] Multimedia Data Compression and Coding - Survey video super resolution methods on Vid4 dataset
 - [Code](https://github.com/vuminhkh0a/Pioneers-Chatbot) [Course project] Introduction to Engineering - Mental Health Support for HUST student
 - [Code](https://github.com/vuminhkh0a/Project-HDH) [Course project] Operating System - Mouse & keyboard recorder for Windows using Win32 Hooks API
 - [Code](https://github.com/vuminhkh0a/Project-CSHTTT) [Course project] Fundamental of Digital Communication - Matlab simulation for LDPC and QPSK
