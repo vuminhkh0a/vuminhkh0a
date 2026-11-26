@@ -14,6 +14,7 @@
 - (https://github.com/vuminhkh0a/Sentiment-Analysis-by-LSTM): Sentiment Analysis with LSTM
 - (https://github.com/vuminhkh0a/Churn-Prediction): Churn prediction
 - (https://github.com/vuminhkh0a/Neural-Post-Processing): [Course project] Multimedia data compression and coding - Enhancing Compressed Audio Using Neural Post-Processing
+- (https://github.com/vuminhkh0a/Video-Super-Resolution): [Course project] Multimedia data compression and coding - Survey video super resolution methods on Vid4 dataset
 - (https://github.com/vuminhkh0a/Pioneers-Chatbot): [Course project] Introduction to Engineering - Mental Health Support for HUST student
 - (https://github.com/vuminhkh0a/Project-HDH) [Course project] Operating System - Mouse & keyboard recorder for Windows using Win32 Hooks API
 
